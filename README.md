@@ -1,2 +1,1 @@
-# Escaping-Literal-Quotes
-Escaping Literal Quotes
+var myStr = "I am a \"double quoted\" string inside \"double quotes\".";
